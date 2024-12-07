@@ -1,0 +1,14 @@
+material traffic_parking
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture /home/david/my_ros2_ws/src/turtlebot3_autobot/map/traffic_parking/materials/textures/traffic_parking.png
+      }
+    }
+  }
+}
+

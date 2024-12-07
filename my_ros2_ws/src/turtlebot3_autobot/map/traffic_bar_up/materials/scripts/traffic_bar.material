@@ -1,0 +1,14 @@
+material traffic_bar
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture /home/david/my_ros2_ws/src/turtlebot3_autobot/map/traffic_bar_up/materials/textures/traffic_bar.png
+      }
+    }
+  }
+}
+

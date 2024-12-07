@@ -1,0 +1,14 @@
+material course
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture /home/david/my_ros2_ws/src/turtlebot3_autobot/map/course/materials/textures/course.png
+      }
+    }
+  }
+}
+
