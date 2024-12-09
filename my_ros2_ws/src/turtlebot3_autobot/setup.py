@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'mover_node = turtlebot3_autobot.mover_node:main',
+            'line_follower_node = turtlebot3_autobot.line_follower_node:main',
         ],
     },
 )

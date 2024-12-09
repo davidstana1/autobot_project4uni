@@ -1,1 +1,1 @@
-/home/david/my_ros2_ws/src/turtlebot3_autobot/setup.py
+/home/david/Desktop/autobot_facultate/my_ros2_ws/src/turtlebot3_autobot/setup.py
