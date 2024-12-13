@@ -1,0 +1,25 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating turtlebot3_autobot.egg-info
+writing turtlebot3_autobot.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_autobot.egg-info/dependency_links.txt
+writing entry points to turtlebot3_autobot.egg-info/entry_points.txt
+writing requirements to turtlebot3_autobot.egg-info/requires.txt
+writing top-level names to turtlebot3_autobot.egg-info/top_level.txt
+writing manifest file 'turtlebot3_autobot.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot3_autobot.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_autobot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/python3.10/site-packages/turtlebot3-autobot.egg-link (link to .)
+Installing line_follower_node script to /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/turtlebot3_autobot
+Installing mover_node script to /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/turtlebot3_autobot
+
+Installed /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot
+running symlink_data
+creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index
+creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index/resource_index
+creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index/resource_index/packages
+symbolically linking /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/resource/turtlebot3_autobot -> /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index/resource_index/packages
+symbolically linking /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/package.xml -> /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/turtlebot3_autobot

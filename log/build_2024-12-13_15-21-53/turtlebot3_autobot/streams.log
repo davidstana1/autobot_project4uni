@@ -1,0 +1,27 @@
+[0.552s] Invoking command in '/home/david/Desktop/autobot_facultate/build/turtlebot3_autobot': PYTHONPATH=/home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/build --no-deps symlink_data
+[0.743s] running develop
+[0.744s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.744s]   warnings.warn(
+[0.860s] running egg_info
+[0.860s] creating turtlebot3_autobot.egg-info
+[0.860s] writing turtlebot3_autobot.egg-info/PKG-INFO
+[0.860s] writing dependency_links to turtlebot3_autobot.egg-info/dependency_links.txt
+[0.860s] writing entry points to turtlebot3_autobot.egg-info/entry_points.txt
+[0.860s] writing requirements to turtlebot3_autobot.egg-info/requires.txt
+[0.860s] writing top-level names to turtlebot3_autobot.egg-info/top_level.txt
+[0.860s] writing manifest file 'turtlebot3_autobot.egg-info/SOURCES.txt'
+[0.861s] reading manifest file 'turtlebot3_autobot.egg-info/SOURCES.txt'
+[0.861s] writing manifest file 'turtlebot3_autobot.egg-info/SOURCES.txt'
+[0.862s] running build_ext
+[0.863s] Creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/python3.10/site-packages/turtlebot3-autobot.egg-link (link to .)
+[0.863s] Installing line_follower_node script to /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/turtlebot3_autobot
+[0.863s] Installing mover_node script to /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/turtlebot3_autobot
+[0.863s] 
+[0.863s] Installed /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot
+[0.863s] running symlink_data
+[0.863s] creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index
+[0.864s] creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index/resource_index
+[0.864s] creating /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index/resource_index/packages
+[0.864s] symbolically linking /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/resource/turtlebot3_autobot -> /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/ament_index/resource_index/packages
+[0.864s] symbolically linking /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/package.xml -> /home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/share/turtlebot3_autobot
+[0.885s] Invoked command in '/home/david/Desktop/autobot_facultate/build/turtlebot3_autobot' returned '0': PYTHONPATH=/home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/david/Desktop/autobot_facultate/install/turtlebot3_autobot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/david/Desktop/autobot_facultate/build/turtlebot3_autobot/build --no-deps symlink_data

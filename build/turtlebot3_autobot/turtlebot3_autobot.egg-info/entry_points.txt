@@ -1,0 +1,4 @@
+[console_scripts]
+line_follower_node = turtlebot3_autobot.line_follower_node:main
+mover_node = turtlebot3_autobot.mover_node:main
+
